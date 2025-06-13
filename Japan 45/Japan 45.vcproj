@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="8.00"
-	Name="Japan 44"
-	ProjectGUID="{FC1E8A03-1117-458F-906E-C7F790D6F720}"
-	RootNamespace="Japan44"
+	Name="Japan 45"
+	ProjectGUID="{EBA50D75-2C9C-4F56-B0B6-4B07D90FE425}"
+	RootNamespace="Japan45"
 	Keyword="ManagedCProj"
 	>
 	<Platforms>
@@ -188,7 +188,7 @@
 				>
 			</File>
 			<File
-				RelativePath=".\Japan 44.cpp"
+				RelativePath=".\Japan 45.cpp"
 				>
 			</File>
 			<File
